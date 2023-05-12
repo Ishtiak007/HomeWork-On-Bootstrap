@@ -54,6 +54,15 @@ section{
     .fundamental-img{
         margin-bottom: 2rem;
     }
+    .alwad-img{
+        margin-bottom: 1.5rem;
+    }
+    .alwad-content{
+        margin-bottom: 5rem;
+    }
+    .explore-right{
+        margin-top: 2rem;
+    }
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
@@ -62,11 +71,20 @@ section{
         margin-bottom: 2rem;
        
     }
+    .alwad-img{
+        margin-bottom: 2rem;
+    }
+    .explore-right{
+        margin-top: 2rem;
+    }
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
     .fundamental-img{
+        margin-bottom: 2rem;
+    }
+    .alwad-img{
         margin-bottom: 2rem;
     }
 }
